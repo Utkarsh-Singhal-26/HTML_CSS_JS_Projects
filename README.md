@@ -12,6 +12,7 @@ This repository consists of several small, standalone projects developed using H
 
 - card-carousel
 - icon-hover
+- movie-fetch-info
 
 ## Badges :label:
 
