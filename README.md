@@ -14,6 +14,7 @@ This repository consists of several small, standalone projects developed using H
 - icon-hover
 - movie-fetch-info
 - login-ui
+- product-animation
 
 ## Badges :label:
 
